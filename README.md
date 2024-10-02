@@ -1,6 +1,6 @@
 # Translate API JavaScript 
-
 Discover the Power of Lingvanex JavaScript Translation API
+
 Unlock the potential of your applications with Lingvanex Translator, a cutting-edge cloud-based neural machine translation service. Compatible with any operating system, free translation api JavaScript enables the creation of intelligent, multi-lingual solutions for all supported languages.
 
 With Lingvanex, you can effortlessly translate both text and HTML pages, enhancing your global reach and communication capabilities. Explore the capabilities of the [Lingvanex Cloud API](https://lingvanex.com/en/translationapi/) and learn more about our [Secure On-Premise Machine Translation](https://lingvanex.com/).
