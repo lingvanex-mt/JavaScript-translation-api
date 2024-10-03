@@ -1,6 +1,10 @@
 const options = {
   method: 'POST',
-  headers: {accept: 'application/json', 'content-type': 'application/json'},
+  headers: {
+    accept: 'application/json',
+    'content-type': 'application/json',
+    Authorization: 'Your authorization API key'
+  },
   body: JSON.stringify({
     from: 'en_GB',
     to: 'de_DE',
